@@ -4,4 +4,4 @@
 >
 #执行get_harbor.sh
 >
-ls查看
+#ls查看
